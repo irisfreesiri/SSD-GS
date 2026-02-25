@@ -1,0 +1,11 @@
+*.pyc
+.vscode
+.idea
+data
+output
+build
+*.egg-info/
+*.json
+*.ipynb
+*.ply
+*.sh

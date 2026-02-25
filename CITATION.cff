@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Cite as below if you find this repository is helpful to your project"
+url: "https://github.com/irisfreesiri/SSD-GS"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Zheng"
+    preferred-names: "Iris"
+  - family-names: "Tang"
+    given-names: "Guojun"
+  - family-names: "Doronin"
+    given-names: "Alexander"
+  - family-names: "Teal"
+    given-names: "Paul D."
+  - family-names: "Zhang"
+    given-names: "Fang-Lue"
+  doi: ""
+  title: "SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting"
+  booktitle: "ICLR 2026 Conference Papers"
+  year: 2026
