@@ -1,6 +1,20 @@
-# SSD-GS
-🎉 Official code release of "SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting" (ICLR 2026).
+<h1 align="center"> SSD-GS: Scatter and Shadow Decomposition for Realistic Relighting in 3D Gaussian Splatting </h1>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/iris-zheng-620295264/" target="_blank">Iris Zheng</a>, 
+    <a href="https://www.linkedin.com/in/guojun-tang-a857b9199/" target="_blank">Guojun Tang</a>, 
+    <a href="https://scholar.google.com/citations?user=0x45kYQAAAAJ&hl=en" target="_blank">Alexander Doronin</a>, 
+    <a href="https://scholar.google.com/citations?user=wS0ittUAAAAJ&hl=en" target="_blank">Paul Teal</a>, 
+    <a href="https://fanglue.github.io/" target="_blank">Fang-Lue Zhang</a>
+</p>
+<p align="center"> Victoria University of Wellington </p>
+
+<img width="1955" height="823" alt="teaser_github" src="https://github.com/user-attachments/assets/fe3ab11f-56b3-4d5e-9c3e-29fe35e08f47" />
+
+[Paper](https://arxiv.org/pdf/2604.13333) | 
+[ICLR](https://iclr.cc/virtual/2026/poster/10011264) | 
+[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011264.png?t=1776286281.582543) | 
+[Dataset](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAS1dIytv1eDrsh2PW78S-3o?e=F3me3f) 
 
 ## 🔧 Installation
 
@@ -25,7 +39,7 @@ The repository is under active development.
 Upcoming updates include:
 
 - ~~Code Release~~ ✅
-- Dataset Release
+- ~~Dataset Release~~ ✅
 - Training & Rendering Instructions
 - Pretrained Models
 - Teaser / Demo Video
