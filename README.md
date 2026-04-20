@@ -9,12 +9,13 @@
 </p>
 <p align="center"> Victoria University of Wellington </p>
 
-<img width="1955" height="823" alt="teaser_github" src="https://github.com/user-attachments/assets/fe3ab11f-56b3-4d5e-9c3e-29fe35e08f47" />
-
 [Paper](https://arxiv.org/pdf/2604.13333) | 
-[ICLR](https://iclr.cc/virtual/2026/poster/10011264) | 
+[ICLR 2026](https://iclr.cc/virtual/2026/poster/10011264) | 
+[Video](https://www.youtube.com/watch?v=mbNmavFGOs8) |
 [Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011264.png?t=1776286281.582543) | 
-[Dataset](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAS1dIytv1eDrsh2PW78S-3o?e=F3me3f) 
+[Dataset](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAS1dIytv1eDrsh2PW78S-3o?e=F3me3f)
+
+https://github.com/user-attachments/assets/bc3c91e5-96cd-4d16-8d88-124ac93e16cd
 
 ## 🔧 Installation
 
@@ -42,7 +43,7 @@ Upcoming updates include:
 - ~~Dataset Release~~ ✅
 - Training & Rendering Instructions
 - Pretrained Models
-- Teaser / Demo Video
+- ~~Teaser / Demo Video~~ ✅
 
 ## 📚 Acknowledgments
 
