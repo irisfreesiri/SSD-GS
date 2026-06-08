@@ -1,13 +1,17 @@
 pillow==11.1.0
 numpy==1.26.3
 plyfile==0.8.1
-gsplat==1.1.1
 opencv-python==4.9.0.80
 tensorboard==2.16.2
 tqdm==4.67.1
 pandas==2.0.3
 matplotlib==3.5.3
 
-git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+# Install CUDA extensions from tested Git refs:
+# tiny-cuda-nn is pinned to match our experimental environment, and Git-tagged
+tinycudann @ git+https://github.com/NVlabs/tiny-cuda-nn.git@48d6989c95def307a40baf176b2d6015dada19f9#subdirectory=bindings/torch
+# gsplat avoids the first-frame backend loading delay of PyPI gsplat.
+gsplat @ git+https://github.com/nerfstudio-project/gsplat.git@v1.1.1
+
 submodules/diff-gaussian-rasterization_light
 submodules/simple-knn

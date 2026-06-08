@@ -202,8 +202,8 @@ def render(viewpoint_camera,
                 else:
                     base_shading = diffuse_term + specular_term + scatter_term
 
-            # ----------- Final Shading Composition (Unified) ------------
-            colors_precomp = torch.concat([base_shading * inten_scale, diffuse_term, specular_term, scatter_term, decay], dim=-1)  # (K, 14)
+                # ----------- Final Shading Composition (Unified) ------------
+                colors_precomp = torch.concat([base_shading * inten_scale, diffuse_term, specular_term, scatter_term, decay], dim=-1)  # (K, 14)
 
         elif pipe.convert_SHs_python:
             shs_view = pc.get_features.transpose(1, 2).view(-1, 3, (pc.max_sh_degree+1)**2)
