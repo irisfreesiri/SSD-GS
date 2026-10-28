@@ -13,7 +13,7 @@
 [ICLR 2026](https://iclr.cc/virtual/2026/poster/10011264) | 
 [Video](https://www.youtube.com/watch?v=mbNmavFGOs8) |
 [Poster](https://iclr.cc/media/PosterPDFs/ICLR%202026/10011264.png?t=1776286281.582543) | 
-[Dataset](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAS1dIytv1eDrsh2PW78S-3o?e=F3me3f)
+[Dataset](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAZx14EKFCXWIK92eLbgX_uU?e=rgaZoQ)
 
 https://github.com/user-attachments/assets/bc3c91e5-96cd-4d16-8d88-124ac93e16cd
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## 📁 Dataset Preparation
 
-This project uses three datasets in the [original paper](https://arxiv.org/pdf/2604.13333). Please download the [datasets](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAS1dIytv1eDrsh2PW78S-3o?e=F3me3f), unzip them, and organize them following the directory structure below:
+This project uses three datasets in the [original paper](https://arxiv.org/pdf/2604.13333). Please download the [datasets](https://myvuwac-my.sharepoint.com/:f:/g/personal/zhengjun1_myvuw_ac_nz/IgADS6vPIEEkTr6Wr64NsT3vAZx14EKFCXWIK92eLbgX_uU?e=rgaZoQ), unzip them, and organize them following the directory structure below:
 
 ```text
 SSD-GS/
